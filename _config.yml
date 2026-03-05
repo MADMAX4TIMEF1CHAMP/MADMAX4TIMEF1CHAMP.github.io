@@ -29,7 +29,7 @@ author:
   # Author links
   links:
     - label: "Linkedin" # Email link
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "assets/images/OIP (2).png"
       # url: "mailto:your.name@email.com"
     - label: "Website" # Website link
       icon: "fas fa-fw fa-link"
