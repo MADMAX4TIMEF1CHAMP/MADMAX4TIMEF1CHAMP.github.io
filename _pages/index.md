@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/placeholder.png
+  overlay_image: assets/images/OIP (1).png
   actions:
     - label: "Download CV"
       url: "https://ulster-my.sharepoint.com/:w:/g/personal/mccaffrey-c22_ulster_ac_uk/IQDtjoz13uqGSauJ5itZyUXrAWr6cj2QUY9_8d8JKKYvtf0?e=rbeUbH"
