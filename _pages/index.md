@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/placeholder.png
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "https://ulster-my.sharepoint.com/:w:/g/personal/mccaffrey-c22_ulster_ac_uk/IQDtjoz13uqGSauJ5itZyUXrAWr6cj2QUY9_8d8JKKYvtf0?e=rbeUbH"
       target: "_blank"
 
 
