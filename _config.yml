@@ -28,7 +28,7 @@ author:
 
   # Author links
   links:
-    - label: "Linkdeln" # Email link
+    - label: "Linkedin" # Email link
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website" # Website link
