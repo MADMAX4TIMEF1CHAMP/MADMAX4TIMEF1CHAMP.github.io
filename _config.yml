@@ -7,7 +7,7 @@ name: "Cahir McCaffrey"
 url: "https://MADMAX4TIMEF1CHAMP.github.io" # Your GitHub Pages domain
 baseurl: "" # Repo name if site is in a project repo, blank for user/org site
 locale: "en-GB" # Language/region
-logo: "D:\Cahir McCaffrey\reps\profilio\favicon_io\apple-touch-icon.png" # path of logo image to display in the masthead
+logo: "D:\ Cahir McCaffrey\ reps\ profilio\ favicon_io\ apple-touch-icon.png" # path of logo image to display in the masthead
 masthead_title: "Cahir McCaffrey" # overrides the website title displayed in the masthead, use " " for no title
 copyright: # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
