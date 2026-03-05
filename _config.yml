@@ -12,7 +12,7 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 copyright: # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
 # Theme settings (used by the existing CSS)
-minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 favicon: "/assets/images/favicon.png" # Favicon path (update this file)
 favicon_version: 1 # Increment to force browsers to refresh the favicon
 
@@ -28,34 +28,34 @@ author:
 
   # Author links
   links:
-    - label: "Email" # Email link
+    - label: "Linkdeln" # Email link
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website" # Website link
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter" # Twitter link
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "" # Twitter link
+      icon: ""
       # url: "https://twitter.com/"
-    - label: "Facebook" # Facebook link
-      icon: "fab fa-fw fa-facebook-square"
+    - label: "" # Facebook link
+      icon: ""
       # url: "https://facebook.com/"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: ""
+      icon: ""
       # url: "https://instagram.com/"
 
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Linkdeln" # Twitter link
+      icon: ""
       url: "https://twitter.com/"
       target: "_blank"
-    - label: "Facebook" # Facebook link
-      icon: "fab fa-fw fa-facebook-square"
+    - label: "" # Facebook link
+      icon: ""
       # url:
       target: "_blank"
     - label: "GitHub" # GitHub link
@@ -65,16 +65,16 @@ footer: # Site footer
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
       # url:
-      target: "_blank"
-    - label: "Bitbucket" # Bitbucket link
-      icon: "fab fa-fw fa-bitbucket"
+      target: ""
+    - label: "" # Bitbucket link
+      icon: ""
       # url:
-      target: "_blank"
-    - label: "Instagram" # Instagram link
-      icon: "fab fa-fw fa-instagram"
+      target: ""
+    - label: "" # Instagram link
+      icon: ""
       # url:
-      target: "_blank"
-  since: "2026" # Year shown in the footer
+      target: ""
+  since: "" # Year shown in the footer
 
 
 # Reading files (what Jekyll includes/excludes)
