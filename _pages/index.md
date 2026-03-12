@@ -16,11 +16,11 @@ excerpt: ""
 intro: 
   - excerpt: 'Welcome to my portfolio'
 feature_row:
-  - image_path: /assets/images/placeholder.png
+  - image_path: assets/images/my first game.png
     alt: "placeholder image 1"
     title: "My First Game"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: assets/images/my first game.png
+  - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
