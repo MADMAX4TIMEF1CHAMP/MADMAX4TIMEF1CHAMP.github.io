@@ -18,19 +18,19 @@ intro:
 feature_row:
   - image_path: assets/images/my first game.png
     alt: "placeholder image 1"
-    title: "My First Game"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "My First Game project"
+    excerpt: ""
   - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Project 2"
+    title: "Project 2"
+    excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Project 3"
+    title: "Project 3"
+    excerpt: ""
 ---
 
 {% include feature_row id="intro" type="center" %}
