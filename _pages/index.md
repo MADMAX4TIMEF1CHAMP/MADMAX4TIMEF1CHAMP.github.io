@@ -27,7 +27,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
+  - image_path: assets/images/OIP (4).png
     alt: "Project 3"
     title: "Project 3"
     excerpt: ""
