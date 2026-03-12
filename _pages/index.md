@@ -22,7 +22,7 @@ feature_row:
     excerpt: ""
   - image_path: /assets/images/placeholder.png
     alt: "Project 2"
-    title: "Prohect 2"
+    title: "Project 2"
     excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
