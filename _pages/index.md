@@ -20,7 +20,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "My First Game project"
     excerpt: ""
-  - image_path: /assets/images/placeholder.png
+  - image_path: assets/images/OIP (3).png
     alt: "Project 2"
     title: "Project 2"
     excerpt: ""
