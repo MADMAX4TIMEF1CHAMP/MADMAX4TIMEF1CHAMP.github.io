@@ -12,13 +12,13 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: ""
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'Welcome to my portfolio'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "My First Game"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
