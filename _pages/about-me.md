@@ -23,7 +23,7 @@ include skills skills=page.skills
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
 in the first semester of the first year i made a 2D platfromer
-in module CRE132: 2D Game Creation.
+in module CRE132: Fundamentals of Game Programming.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
