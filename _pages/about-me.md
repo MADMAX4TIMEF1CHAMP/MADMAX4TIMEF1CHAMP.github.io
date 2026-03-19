@@ -30,12 +30,6 @@ in module CRE132: 2D Game Creation.
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="IEbnD22_QTM" provider="youtube" %}
-
-tutorial used for my players health:https://youtu.be/TVq-AxxBS5Q?si=P5UMBYA1xiSYank7
-
-tutorial used to add background music:https://youtu.be/63BEZMjcegE?si=G0Q0zH0VgkXQrpIM
-
-tutorial used for enemy patrol https://youtu.be/RuvfOl8HhhM?si=eVbh78ssDeQXLlnEh" provider="youtube" %}
 </div>
 </div>
 
