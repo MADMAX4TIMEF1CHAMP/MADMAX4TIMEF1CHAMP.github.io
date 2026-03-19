@@ -22,14 +22,20 @@ include skills skills=page.skills
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
-As part of a team, I helped design and build a 2D Platform game for my course
-in module CRE135: 2D Game Creation.
+in the first semester of the first year i made a 2D platfromer
+in module CRE132: 2D Game Creation.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video id="https://youtu.be/IEbnD22_QTM
+
+tutorial used for my players health:https://youtu.be/TVq-AxxBS5Q?si=P5UMBYA1xiSYank7
+
+tutorial used to add background music:https://youtu.be/63BEZMjcegE?si=G0Q0zH0VgkXQrpIM
+
+tutorial used for enemy patrol https://youtu.be/RuvfOl8HhhM?si=eVbh78ssDeQXLlnEh" provider="youtube" %}
 </div>
 </div>
 
