@@ -5,8 +5,8 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
+      - title: "1st yr Project Game - 2D Platformer"
+        url: /projects/"1st-yr-project-game-2d-platformer/
       - title: "Capstone"
         url: /projects/capstone/
   - title: "Pages"
