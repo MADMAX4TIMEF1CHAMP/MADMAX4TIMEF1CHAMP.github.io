@@ -7,8 +7,8 @@ main:
     children:
       - title: "1stYrProjectGame2DPlatformer"
         url: /projects/"1st-yr-project-game-2d-platformer/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "1stYrGrouProjectGame2DTopDown"
+        url: /projects/1styrgrouprojectgame2dtopdown/
   - title: "Pages"
     url: /pages/
     children:
