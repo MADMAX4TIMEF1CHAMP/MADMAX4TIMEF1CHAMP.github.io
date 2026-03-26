@@ -40,7 +40,7 @@ in module CRE132: Fundamentals of Game Programming.
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>1st yr Project Game - 2D Platformer</h2>
+<h2>1st yr Group Project Game - 2D Platformer</h2>
 <p>
 As part of a team, I helped design and build a 2D Platform game for my course
 in module CRE135: 2D Game Creation.
