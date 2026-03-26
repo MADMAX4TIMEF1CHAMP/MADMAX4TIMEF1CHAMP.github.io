@@ -5,7 +5,7 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "1st yr Project Game - 2D Platformer"
+      - title: "1stYrProjectGame2DPlatformer"
         url: /projects/"1st-yr-project-game-2d-platformer/
       - title: "Capstone"
         url: /projects/capstone/
@@ -24,8 +24,8 @@ main:
     url: /about-me/
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
+  - title: "1stYrProjectGame2DPlatformer"
+    url: /projects/1styrprojectgame2dplatfromer/
   - title: "Capstone"
     url: /projects/capstone/
 
