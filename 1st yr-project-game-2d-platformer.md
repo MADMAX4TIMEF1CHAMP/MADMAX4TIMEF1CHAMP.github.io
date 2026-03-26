@@ -1,7 +1,7 @@
 ---
-title: "Game Jam"
+title: "1st yr Project Game - 2D Platformer"
 layout: single
-permalink: /projects/game-jam/
+permalink: /projects/1st yr-project-game-2d-platformer/
 sidebar:
   title: "Projects"
   nav:
