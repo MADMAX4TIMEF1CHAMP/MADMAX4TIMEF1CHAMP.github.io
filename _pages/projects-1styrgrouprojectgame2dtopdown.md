@@ -1,7 +1,7 @@
 ---
-title: "Capstone"
+title: "1stYrGroupProjectGame2DTopDown"
 layout: single
-permalink: /projects/capstone/
+permalink: /projects/1styrgrouprojectgame2dtopdown/
 sidebar:
   title: "Projects"
   nav:
