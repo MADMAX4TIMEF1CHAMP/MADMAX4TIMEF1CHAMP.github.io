@@ -25,7 +25,7 @@ main:
 # Sidebar menu for the Projects page
 projects:
   - title: "1stYrProjectGame2DPlatformer"
-    url: _pages/projects-1styrprojectgame2dplatformer.md
+    url: _pages/projects-1styrprojectgame2dplatformer/
   - title: "Capstone"
     url: /projects/capstone/
 
