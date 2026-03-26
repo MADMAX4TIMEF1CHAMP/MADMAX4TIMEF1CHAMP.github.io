@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-    skills:
+skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
