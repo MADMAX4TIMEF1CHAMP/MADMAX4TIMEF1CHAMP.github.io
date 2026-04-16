@@ -24,9 +24,6 @@ feature_row:
     alt: "project 2 image holder"
     title: "Neurosis a group 2d top down project game"
     excerpt: ""
-    url: ""
-    btn_label: ""
-    btn_class: ""
   - image_path: assets/images/OIP (4).png
     alt: "Project 3"
     title: "Project 3"
