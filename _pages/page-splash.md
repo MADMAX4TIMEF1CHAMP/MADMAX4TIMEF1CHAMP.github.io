@@ -13,3 +13,21 @@ excerpt: "Splash layout adds a large hero area at the top of the page."
 ---
 
 This page uses the `splash` layout. It is great for homepages and strong visual intros.
+
+
+
+
+page.md 
+
+---
+title: "Pages"
+layout: single
+permalink: /pages/
+sidebar:
+  title: "Page Templates"
+  nav:
+    - pages
+---
+
+This section shows each available layout template so students can compare them.
+Use the sidebar to open each example.
