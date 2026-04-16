@@ -15,6 +15,10 @@ skills:
     level_label: "Beginner"
 ---
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<p>
+  My name is Cahir McCaffrey and Im a 1st year Games design and developmebt student at Ulster University and Below are my lastest projects
+</p>
+<div>
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
@@ -42,6 +46,6 @@ in module CRE135: 2D Game Creation.
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video id="xqIvpmk4H9o" provider="youtube" %}
 </div>
 </div>
