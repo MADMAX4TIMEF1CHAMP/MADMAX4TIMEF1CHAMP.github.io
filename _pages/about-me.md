@@ -14,16 +14,16 @@ skills:
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
 ---
-include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption"
-include skills skills=page.skills
-
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<p>
+  My name is Cahir McCaffrey and Im a 1st year Games design and development student at Ulster University and Below are my lastest projects
+</p>
+<div>
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
-in the first semester of the first year i made a 2D platfromer
-in module CRE132: Fundamentals of Game Programming.
+ In the first semester of the first year, I made a 2D platformer in module CRE132: Fundamentals of Game Programming, and the game is about jumping over objects to collect all the coins, and you have to avoid enemies and that the aim of the game.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
@@ -38,13 +38,12 @@ in module CRE132: Fundamentals of Game Programming.
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
-As part of a team, I helped design and build a 2D Platform game for my course
-in module CRE135: 2D Game Creation.
+ As part of a team, I helped design and build a 2D top-down game for my course, In module CRE135: 2D Game Creation, the game was called Neurosis, where the player avoids enemies and switches states so they can get access to rooms and get items to escape a mental hospital.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video id="xqIvpmk4H9o" provider="youtube" %}
 </div>
 </div>

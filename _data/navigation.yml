@@ -9,35 +9,14 @@ main:
         url: /projects/"1st-yr-project-game-2d-platformer/
       - title: "1stYrGrouProjectGame2DTopDown"
         url: /projects/1styrgrouprojectgame2dtopdown/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
-  - title: "Components"
-    url: /components/
   - title: "About Me"
     url: /about-me/
 # Sidebar menu for the Projects page
 projects:
   - title: "1stYrProjectGame2DPlatformer"
     url: _pages/projects-1styrprojectgame2dplatformer/
-  - title: "Capstone"
-    url: /projects/capstone/
-
-# Sidebar menu for the Pages page
-pages:
-  - title: "Default Layout"
-    url: /pages/default/
-  - title: "Single Layout"
-    url: /pages/single/
-  - title: "Splash Layout"
-    url: /pages/splash/
-
+  - title: "1stYrGroupProjectGame2DTopDown"
+    url: _pages/projects-1styrgrouprojectgame2dtopdown/
 
     about-me:
     - title: "About Me"
