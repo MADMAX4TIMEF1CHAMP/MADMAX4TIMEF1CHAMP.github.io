@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/OIP (1).png
   actions:
     - label: "Download CV"
-      url: "assets/downloads/Cahir-McCaffrey-B01017110-CRE136.cleaned.pdf"
+      url: "assets/downloads/Cahir-McCaffrey-B01017110-CRE136.cleaned (1).pdf"
       target: "_blank"
 
 
