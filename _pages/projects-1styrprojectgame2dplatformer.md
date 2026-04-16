@@ -28,7 +28,7 @@ skills:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
- In the first semester of the first year, I made a 2D platformer in module CRE132: Fundamentals of Game Programming, and the game is about jumping over objects to collect all the coins, and you have to avoid enemies and that the aim of the game.
+  In the first semester of the first year, I made a 2D platformer in module CRE132: Fundamentals of Game Programming, and the game is about jumping over objects to collect all the coins, and you have to avoid enemies and that the aim of the game.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
