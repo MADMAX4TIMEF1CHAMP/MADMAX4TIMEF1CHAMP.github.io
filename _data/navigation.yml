@@ -26,8 +26,8 @@ main:
 projects:
   - title: "1stYrProjectGame2DPlatformer"
     url: _pages/projects-1styrprojectgame2dplatformer/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "1stYrGroupProjectGame2DTopDown"
+    url: _pages/projects-1styrgrouprojectgame2dtopdown/
 
 # Sidebar menu for the Pages page
 pages:
