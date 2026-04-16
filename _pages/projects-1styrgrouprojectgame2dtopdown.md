@@ -1,8 +1,8 @@
 ---
-title: "1stYrGroupProjectGame2DTopDown"
+title: "1stYrProjectGame2DPlatformer"
 layout: single
 <<<<<<< Updated upstream:_pages/projects-1styrprojectgame2dplatformer.md
-permalink: /projects/1styrgrouprojectgame2dtopdown/
+permalink: /projects/1styrprojectgame2dplatformer/
 =======
 permalink: /projects/1st-yr-project-game-2d-platformer/
 >>>>>>> Stashed changes:1st yr-project-game-2d-platformer.md
