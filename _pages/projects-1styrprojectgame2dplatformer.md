@@ -29,12 +29,11 @@ skills:
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
 In the first semester of the first year i made a 2D platfromer in module CRE132: Fundamentals of Game Programming and the game is about jump over objects to get to collect all the coins and you have to a voids enemies and that the aim of the game.
-
 </p>
 </div>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video id="IEbnD22_QTM" provider="youtube" %}
 </div>
 </div>
