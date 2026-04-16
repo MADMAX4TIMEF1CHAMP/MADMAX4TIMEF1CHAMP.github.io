@@ -1,11 +1,10 @@
 ---
-title: "1stYrProjectGame2DPlatformer"
+title: "1stYrGroupProjectGame2DTopDown"
 layout: single
 <<<<<<< Updated upstream:_pages/projects-1styrprojectgame2dplatformer.md
-permalink: /projects/1styrprojectgame2dplatformer/
+permalink: /projects/1styrgrouprojectgame2dtopdown/
 =======
-permalink: /projects/1st-yr-project-game-2d-platformer/
->>>>>>> Stashed changes:1st yr-project-game-2d-platformer.md
+permalink: /projects/1st-yr-group-project-game-2d-top-down/
 sidebar:
   title: "Projects"
   nav:
@@ -26,15 +25,15 @@ skills:
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>1st yr Project Game - 2D Platformer</h2>
+<h2>1st yr  Group Project Game - 2D top down</h2>
 <p>
-As part of a team, I helped design and build a 2D Platform game for my course
+As part of a team, I helped design and build a 2D top down game for my course
 in module CRE135: 2D Game Creation.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video id="IEbnD22_QTM" provider="youtube" %}
 </div>
 </div>
