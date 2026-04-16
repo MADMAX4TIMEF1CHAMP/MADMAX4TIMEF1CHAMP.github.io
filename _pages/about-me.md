@@ -16,7 +16,7 @@ skills:
 ---
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <p>
-  My name is Cahir McCaffrey and Im a 1st year Games design and development student at Ulster University and Below are my lastest projects
+  My name is Cahir McCaffrey and Im a 1st year Games design and development student at Ulster University. I've created a solo 2D platformer focused on collecting coins and collaborated on a top-down game about escaping a mental hospital. Outside of academics, I'm a big Formula 1 fan—watching every race and attending events when I can. I also enjoy various video games, including racing, story-rich, action, strategy, and casual titles and lastly my latest projects are below.
 </p>
 <div>
 <!-- LEFT: text content -->
