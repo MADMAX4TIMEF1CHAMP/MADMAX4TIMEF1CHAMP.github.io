@@ -23,8 +23,7 @@ skills:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
-in the first semester of the first year i made a 2D platfromer
-in module CRE132: Fundamentals of Game Programming.
+In the first semester of the first year i made a 2D platfromer in module CRE132: Fundamentals of Game Programming and the game is about jump over objects to get to collect all the coins and you have to a voids enemies and that the aim of the game.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
@@ -39,8 +38,7 @@ in module CRE132: Fundamentals of Game Programming.
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st Yr Group Project Game - 2D TopDown </h2>
 <p>
-As part of a team, I helped design and build a 2D Platform game for my course
-in module CRE135: 2D Game Creation.
+As part of a team, I helped design and build a 2D topdown game for my course In module CRE135: 2D Game Creation, the game was called Neurosis were the player a voids enemies and switch states so the can get access to rooms and to get items to escape a mental hostipal .
 </p>
 </div>
 <!-- RIGHT: video/content area -->
