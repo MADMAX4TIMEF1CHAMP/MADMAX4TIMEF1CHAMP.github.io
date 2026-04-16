@@ -27,8 +27,7 @@ skills:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr  Group Project Game - 2D top down</h2>
 <p>
-As part of a team, I helped design and build a 2D top down game for my course
-in module CRE135: 2D Game Creation.
+As part of a team, I helped design and build a 2D topdown game for my course In module CRE135: 2D Game Creation, the game was called Neurosis were the player a voids enemies and switch states so the can get access to rooms and to get items to escape a mental hostipal .
 </p>
 </div>
 <!-- RIGHT: video/content area -->
