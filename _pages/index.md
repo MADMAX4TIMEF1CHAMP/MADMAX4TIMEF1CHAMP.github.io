@@ -26,7 +26,7 @@ feature_row:
     excerpt: ""
     url: ""
     btn_label: ""
-    btn_class: "btn--primary"
+    btn_class: ""
   - image_path: assets/images/OIP (4).png
     alt: "Project 3"
     title: "Project 3"
