@@ -14,9 +14,6 @@ skills:
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
 ---
-include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption"
-include skills skills=page.skills
-
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
