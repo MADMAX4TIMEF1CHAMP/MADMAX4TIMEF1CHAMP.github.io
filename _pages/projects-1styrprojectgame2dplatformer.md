@@ -28,8 +28,8 @@ skills:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
-As part of a team, I helped design and build a 2D Platform game for my course
-in module CRE135: 2D Game Creation.
+In the first semester of the first year i made a 2D platfromer in module CRE132: Fundamentals of Game Programming and the game is about jump over objects to get to collect all the coins and you have to a voids enemies and that the aim of the game.
+
 </p>
 </div>
 <!-- RIGHT: video/content area -->
