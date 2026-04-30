@@ -36,7 +36,7 @@ skills:
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>1st yr Project Game - 2D Platformer</h2>
+<h2>1st yr Group Project Game - 2D TopDown</h2>
 <p>
  As part of a team, I helped design and build a 2D top-down game for my course, In module CRE135: 2D Game Creation, the game was called Neurosis, where the player avoids enemies and switches states so they can get access to rooms and get items to escape a mental hospital.
 </p>
@@ -44,6 +44,6 @@ skills:
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="xqIvpmk4H9o" provider="youtube" %}
+{% include video id="WuYrTDW3apc" provider="youtube" %}
 </div>
 </div>
