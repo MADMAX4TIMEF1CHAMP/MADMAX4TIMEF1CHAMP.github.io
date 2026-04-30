@@ -10,8 +10,8 @@ header:
     - label: "Download CV"
       url: "assets/downloads/Cahir-McCaffrey-B01017110-CRE136.cleaned (4).pdf"
       target: "_blank"
-    -label: "Contact me"
-      url: "assets/downloads/Cahir-McCaffrey-B01017110-CRE136.cleaned (4).pdf"
+    - label: "Contact me"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSc-_oBQabs6OSqXZ47EMWl8mZoN46U81o6to_KRPZTovHFPTQ/viewform?usp=dialog"
       target: "_blank"
 
 
